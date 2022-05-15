@@ -1,0 +1,17 @@
+.calculator,
+.result {
+    border: 2px gray solid;
+}
+.calculator > * {
+    margin: 0.5rem;
+}
+
+.calculator > div > input {
+    width: 50%;
+}
+.result {
+    padding: 0.5rem;
+}
+.result .result-values {
+    font-weight: 700;
+}

@@ -1,0 +1,19 @@
+table {
+    margin-top: 1rem;
+    border: 2px gray solid;
+    border-spacing: 0;
+}
+
+table td {
+    font-size: 10vmin;
+    width: 15vmin;
+    height: 15vmin;
+    vertical-align: middle;
+    text-align: center;
+    border: 2px lightcoral solid;
+}
+
+table td:hover {
+    background-color: lightcyan;
+    cursor: pointer;
+}
